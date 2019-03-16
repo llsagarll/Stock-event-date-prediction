@@ -3,7 +3,6 @@ To run file:  Open stockevent.ipynb file in jupyter notebook and use dataset amd
 
 /*
 **
-**Author :Sagar singh
-**   	  Army institute of technology,pune.
+**coded by :Sagar Singh
 **
 */
